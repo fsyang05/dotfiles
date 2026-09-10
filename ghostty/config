@@ -1,0 +1,5 @@
+font-family = FiraMono Nerd Font Mono
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+keybind = shift+enter=text:\x1b\r
